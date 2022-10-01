@@ -4,9 +4,8 @@ Stages in Project
 Below are the stages taken in this project:
 1. Data Acquizition
 2. Data Cleaning and Exploration.
-3. Feature Engineering (
+3. Feature Engineering 
 4. Dimensionality Reduction
-5. Clustering (Kmeans and Agglomerative Clustering model)
-6. Evaluating Models
-7. Key Findings
-8. Conclusion.
+5. Clustering (Kmeans)
+6. Key Findings
+7. Conclusion.
